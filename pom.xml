@@ -16,6 +16,17 @@
 
   <dependencies>
     <dependency>
+      <groupId>com.sparkpost</groupId>
+      <artifactId>sparkpost-lib</artifactId>
+      <version>0.27</version>
+    </dependency>
+    <dependency>
+      <groupId>com.sendgrid</groupId>
+      <artifactId>sendgrid-java</artifactId>
+      <version>4.9.3</version>
+    </dependency>
+
+    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
